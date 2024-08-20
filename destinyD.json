@@ -1,0 +1,92 @@
+  {
+    "states": {
+      "AC": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "AL": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "AP": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "AM": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "BA": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "CE": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "DF": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "fria"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "ES": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "fria"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "GO": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "fria"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "MA": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "quente"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      },
+      "MT": {
+        "climate": {
+          "beforeJune": "quente",
+          "afterJune": "fria"
+        },
+        "activities": [],
+        "mediumPrice": 0
+      }
+    }
+  }

@@ -1,0 +1,132 @@
+{
+  "States": {
+    "MS": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "MG": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "PA": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "PB": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "PR": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "PE": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "PI": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "RJ": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "RN": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "RS": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "RO": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "RR": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "SC": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "SP": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "fria"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "SE": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    },
+    "TO": {
+      "climate": {
+        "beforeJune": "quente",
+        "afterJune": "quente"
+      },
+      "activities": [],
+      "mediumPrice": 0
+    }
+  }
+}
