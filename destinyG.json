@@ -1,196 +1,210 @@
-{
-  "States": {
-    "MS": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Museus",
-        "Parques",
-        "Turismo de Aventura"
-      ],
-      "mediumPrice": 3500
+[
+  {
+    "state": "MS",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "MG": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Cidades Históricas",
-        "Cachoeiras",
-        "Museus"
-      ],
-      "mediumPrice": 4000
+    "activities": [
+      "Museus",
+      "Parques",
+      "Turismo de Aventura"
+    ],
+    "mediumPrice": 3500
+  },
+  {
+    "state": "MG",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "PA": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Museus",
-        "Parques"
-      ],
-      "mediumPrice": 4500
+    "activities": [
+      "Cidades Históricas",
+      "Cachoeiras",
+      "Museus"
+    ],
+    "mediumPrice": 4000
+  },
+  {
+    "state": "PA",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "PB": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Centro Histórico",
-        "Museus"
-      ],
-      "mediumPrice": 4200
+    "activities": [
+      "Praias",
+      "Museus",
+      "Parques"
+    ],
+    "mediumPrice": 4500
+  },
+  {
+    "state": "PB",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "PR": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Parques",
-        "Cachoeiras",
-        "Museus"
-      ],
-      "mediumPrice": 4700
+    "activities": [
+      "Praias",
+      "Centro Histórico",
+      "Museus"
+    ],
+    "mediumPrice": 4200
+  },
+  {
+    "state": "PR",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "PE": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Museus",
-        "Centro Histórico"
-      ],
-      "mediumPrice": 4300
+    "activities": [
+      "Parques",
+      "Cachoeiras",
+      "Museus"
+    ],
+    "mediumPrice": 4700
+  },
+  {
+    "state": "PE",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "PI": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Parques",
-        "Museus"
-      ],
-      "mediumPrice": 4100
+    "activities": [
+      "Praias",
+      "Museus",
+      "Centro Histórico"
+    ],
+    "mediumPrice": 4300
+  },
+  {
+    "state": "PI",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "RJ": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Praias",
-        "Museus",
-        "Parques"
-      ],
-      "mediumPrice": 5000
+    "activities": [
+      "Praias",
+      "Parques",
+      "Museus"
+    ],
+    "mediumPrice": 4100
+  },
+  {
+    "state": "RJ",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "RN": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Parques",
-        "Museus"
-      ],
-      "mediumPrice": 4200
+    "activities": [
+      "Praias",
+      "Museus",
+      "Parques"
+    ],
+    "mediumPrice": 5000
+  },
+  {
+    "state": "RN",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "RS": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Parques",
-        "Cachoeiras",
-        "Museus"
-      ],
-      "mediumPrice": 4800
+    "activities": [
+      "Praias",
+      "Parques",
+      "Museus"
+    ],
+    "mediumPrice": 4200
+  },
+  {
+    "state": "RS",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "RO": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Parques",
-        "Museus",
-        "Turismo de Aventura"
-      ],
-      "mediumPrice": 3800
+    "activities": [
+      "Parques",
+      "Cachoeiras",
+      "Museus"
+    ],
+    "mediumPrice": 4800
+  },
+  {
+    "state": "RO",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "RR": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Parques",
-        "Museus",
-        "Turismo de Aventura"
-      ],
-      "mediumPrice": 3900
+    "activities": [
+      "Parques",
+      "Museus",
+      "Turismo de Aventura"
+    ],
+    "mediumPrice": 3800
+  },
+  {
+    "state": "RR",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "SC": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Praias",
-        "Parques",
-        "Museus"
-      ],
-      "mediumPrice": 4600
+    "activities": [
+      "Parques",
+      "Museus",
+      "Turismo de Aventura"
+    ],
+    "mediumPrice": 3900
+  },
+  {
+    "state": "SC",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "SP": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "fria"
-      },
-      "activities": [
-        "Museus",
-        "Parques",
-        "Turismo de Aventura"
-      ],
-      "mediumPrice": 5200
+    "activities": [
+      "Praias",
+      "Parques",
+      "Museus"
+    ],
+    "mediumPrice": 4600
+  },
+  {
+    "state": "SP",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "fria"
     },
-    "SE": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Praias",
-        "Museus",
-        "Parques"
-      ],
-      "mediumPrice": 4100
+    "activities": [
+      "Museus",
+      "Parques",
+      "Turismo de Aventura"
+    ],
+    "mediumPrice": 5200
+  },
+  {
+    "state": "SE",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
     },
-    "TO": {
-      "climate": {
-        "beforeJune": "quente",
-        "afterJune": "quente"
-      },
-      "activities": [
-        "Parques",
-        "Cachoeiras",
-        "Turismo de Aventura"
-      ],
-      "mediumPrice": 4400
-    }
+    "activities": [
+      "Praias",
+      "Museus",
+      "Parques"
+    ],
+    "mediumPrice": 4100
+  },
+  {
+    "state": "TO",
+    "climate": {
+      "beforeJune": "quente",
+      "afterJune": "quente"
+    },
+    "activities": [
+      "Parques",
+      "Cachoeiras",
+      "Turismo de Aventura"
+    ],
+    "mediumPrice": 4400
   }
-}
+]
