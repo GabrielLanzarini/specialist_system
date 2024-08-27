@@ -10,9 +10,13 @@
 
 #### Que atividade você tem mais interesse em fazer?
 
-- [1] A definir
-- [2] A definir
-- [3] A definir....
+- [0] Museus
+- [1] Parques
+- [2] Turismo de Aventura
+- [3] Cidades HistÃ³ricas
+- [4] Cachoeiras
+- [5] Praias
+- [6] Centro HistÃ³rico
 
 #### Que tipo de clima você prefere?
 
@@ -26,11 +30,9 @@
 
 #### Qual o valor que você pretende gastar com a hospedagem?
 
-<!-- A DEFINIR SE MANTEREMOS ISSO MESMO -->
-
-- [1] R$1000 e R$3000 (baixo)
-- [2] R$3000 e R$5000 (médio)
-- [3] Mais de R$5000 (alto)
+- [1] R$3500 e R$4100 (baixo)
+- [2] R$4200 e R$4500 (médio)
+- [3] Mais de R$4500 (alto)
 
 ## Resposta
 
