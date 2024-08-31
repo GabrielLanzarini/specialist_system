@@ -38,7 +38,7 @@ answerData = {
 }
 
 
-finalAnswer = processData(answerData)
+finalAnswer = processData(answerData, True)
 
 if len(finalAnswer) == 0:
     print("Infelizmente não foram encontrados possíveis destinos com as suas escolhas!")

@@ -41,7 +41,7 @@ def filterByPrice(index: int):
     return filteredStates
 
 
-def findMatchStates(act: list, dateClimate: list, price: list):
+def findMatchStates(act: list, dateClimate: list, price: list, showMessages: bool):
     dateInterception = [item for item in act if item in dateClimate]
     priceInterception = [item for item in dateInterception if item in price]
 
@@ -49,17 +49,22 @@ def findMatchStates(act: list, dateClimate: list, price: list):
         return []
 
     if len(priceInterception) == 0:
-        print("-" * 70)
-        print("Para melhores resultados foi necessário remover seu filtro de preço!")
+        if showMessages:
+            print("-" * 70)
+            print(
+                "Para melhores resultados foi necessário remover seu filtro de preço!"
+            )
         return dateInterception[:3]
 
     return priceInterception[:3]
 
 
-def processData(data: object):
+def processData(data: object, showMessages: bool):
     actStates = filterByAct(data["activity"])
     dateClimateStates = filterByDateAndClimate(data["date"], data["climate"])
     priceStates = filterByPrice(data["price"])
 
-    matchAllStates = findMatchStates(actStates, dateClimateStates, priceStates)
+    matchAllStates = findMatchStates(
+        actStates, dateClimateStates, priceStates, showMessages
+    )
     return generateAnswer(matchAllStates)
