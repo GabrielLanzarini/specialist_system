@@ -34,12 +34,6 @@
 - [2] R$4200 e R$4500 (médio)
 - [3] Mais de R$4500 (alto)
 
-## Resposta
-
-- Com base nas respostas .... o melhor estado para você viajar seria ....
-
 ### Pesquisa de preços e atividades
 
 - Pegar a capital de cada estado e pesquisar por pacotes de viajem e fazer a média deles no www.tripadvisor.com.br.
-- Para cada capital pegar no máximo 3 atividades.
-- MS pra baixo e MS Gabriel pesquisa, MS pra cima Dudu pesquisa.
