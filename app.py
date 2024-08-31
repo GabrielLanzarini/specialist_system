@@ -1,4 +1,4 @@
-from utils import question_helper, getAllActivities
+from utils import questionHelper, getAllActivities
 from decisionSytem import processData
 
 activities = getAllActivities()
@@ -6,21 +6,21 @@ activities = getAllActivities()
 print("Que atividade você tem mais interesse em fazer?")
 for index, activitie in enumerate(activities):
     print(f"- [{index}] {activitie}")
-chooseActivity = question_helper("Atividade: ", len(activities) - 1)
+chooseActivity = questionHelper("Atividade: ", len(activities) - 1)
 
 print(
     """Você pretende viajar?
 - [0] Antes de junho
 - [1] Depois de junho"""
 )
-chooseDate = question_helper("Data: ", 2)
+chooseDate = questionHelper("Data: ", 1)
 
 print(
     """Que tipo de clima você prefere?
 - [0] Quente
 - [1] Frio"""
 )
-chooseClimate = question_helper("Clima: ", 2)
+chooseClimate = questionHelper("Clima: ", 1)
 
 print(
     """Quanto mais ou menos deseja gastar?
@@ -28,7 +28,7 @@ print(
 - [1] R$4200 e R$4500 (médio)
 - [2] Mais de R$4500 (alto)"""
 )
-choosePrice = question_helper("Preço: ", 3)
+choosePrice = questionHelper("Preço: ", 2)
 
 answerData = {
     "activity": chooseActivity,

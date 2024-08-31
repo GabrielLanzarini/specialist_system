@@ -4,7 +4,7 @@ file = open("./allDestiny.json", encoding="utf8")
 data = load(file)
 
 
-def question_helper(inputText: str, maxSelection: int):
+def questionHelper(inputText: str, maxSelection: int):
     answer = -1
     while answer < 0 or answer > maxSelection:
         answer = int(input(inputText))
